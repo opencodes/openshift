@@ -1,0 +1,4 @@
+com\rkjha\sm\model\SocietyInfoModel.class
+com\rkjha\sm\SocietyManagement.class
+com\rkjha\sm\controller\SocietyInfoController.class
+com\rkjha\sm\service\SocietyInfoService.class
